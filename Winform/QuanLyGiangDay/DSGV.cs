@@ -83,6 +83,7 @@ namespace QuanLyGiangDay
                     (txt_hodem.Text + " " + txt_tengv.Text));
                 btn_luu.Enabled = false;
                 btn_themmt.Text = "Thêm MT";
+                btn_capnhat.Enabled = true;
                 activeData();
             }
             else MessageBox.Show("Vui lòng kiểm tra lại thông tin vừa nhập.");
