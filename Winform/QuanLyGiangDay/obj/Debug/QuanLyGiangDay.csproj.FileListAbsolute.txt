@@ -1,0 +1,17 @@
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.exe.config
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.exe
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.pdb
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.AssemblyReference.cache
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Main.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Properties.Resources.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.GenerateResource.cache
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.CoreCompileInputs.cache
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.exe
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.pdb
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.DSGV.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Login.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.THTK.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.TKGD.resources
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\bin\Debug\TasmaControl.dll
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\bin\Debug\TasmaControl.pdb
+D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\QuanLyGiangDay\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.CopyComplete
