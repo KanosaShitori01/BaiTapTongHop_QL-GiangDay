@@ -56,8 +56,8 @@ namespace QuanLyGiangDay
         private void Main_Load(object sender, EventArgs e)
         {
             reloadMain();
-            //nhậpDữLiệuToolStripMenuItem.Enabled = TasmaMain.SESSION;
-            //thốngKêToolStripMenuItem.Enabled = TasmaMain.SESSION;
+            nhậpDữLiệuToolStripMenuItem.Enabled = TasmaMain.SESSION;
+            thốngKêToolStripMenuItem.Enabled = TasmaMain.SESSION;
         }
 
         private void nhậpDữLiệuToolStripMenuItem_Click(object sender, EventArgs e)
