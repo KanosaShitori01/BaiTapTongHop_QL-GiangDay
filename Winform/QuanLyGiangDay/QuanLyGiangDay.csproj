@@ -116,7 +116,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\TasmaLibrary\TasmaControl\TasmaControl.csproj">
+    <ProjectReference Include="..\TasmaControl\TasmaControl.csproj">
       <Project>{0b490808-8427-4d7c-b72a-8528652df7d6}</Project>
       <Name>TasmaControl</Name>
     </ProjectReference>

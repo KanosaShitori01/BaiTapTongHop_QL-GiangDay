@@ -9,3 +9,9 @@ D:\Program File (K.N)\GitHub\Back-End\C#\TasmaLibrary\TasmaControl\obj\Debug\Tas
 D:\Program File (K.N)\GitHub\Back-End\C#\TasmaLibrary\TasmaControl\obj\Debug\TasmaControl.csproj.CoreCompileInputs.cache
 D:\Program File (K.N)\GitHub\Back-End\C#\TasmaLibrary\TasmaControl\obj\Debug\TasmaControl.dll
 D:\Program File (K.N)\GitHub\Back-End\C#\TasmaLibrary\TasmaControl\obj\Debug\TasmaControl.pdb
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\bin\Debug\TasmaControl.dll
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\bin\Debug\TasmaControl.pdb
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\obj\Debug\TasmaControl.csproj.AssemblyReference.cache
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\obj\Debug\TasmaControl.csproj.CoreCompileInputs.cache
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\obj\Debug\TasmaControl.dll
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\TasmaControl\obj\Debug\TasmaControl.pdb

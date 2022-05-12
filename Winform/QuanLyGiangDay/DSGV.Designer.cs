@@ -224,6 +224,7 @@ namespace QuanLyGiangDay
             // txt_dienthoai
             // 
             this.txt_dienthoai.Location = new System.Drawing.Point(92, 130);
+            this.txt_dienthoai.MaxLength = 10;
             this.txt_dienthoai.Name = "txt_dienthoai";
             this.txt_dienthoai.Size = new System.Drawing.Size(100, 20);
             this.txt_dienthoai.TabIndex = 12;

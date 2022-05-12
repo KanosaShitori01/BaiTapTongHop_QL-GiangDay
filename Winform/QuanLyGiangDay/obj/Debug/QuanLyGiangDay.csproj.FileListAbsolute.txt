@@ -32,3 +32,20 @@ D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\Winform\QuanLyGiangDay\o
 D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.CopyComplete
 D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.exe
 D:\Program File (K.N)\GitHub\Back-End\C#\QuanLyGiangDay\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.pdb
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.exe.config
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.exe
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\bin\Debug\QuanLyGiangDay.pdb
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\bin\Debug\TasmaControl.dll
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\bin\Debug\TasmaControl.pdb
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.AssemblyReference.cache
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.DSGV.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Login.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Main.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.Properties.Resources.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.THTK.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.TKGD.resources
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.GenerateResource.cache
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.CoreCompileInputs.cache
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.csproj.CopyComplete
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.exe
+D:\BaiTapTongHop_QL-GiangDay-main\Winform\QuanLyGiangDay\obj\Debug\QuanLyGiangDay.pdb

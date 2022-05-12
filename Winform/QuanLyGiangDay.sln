@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyGiangDay", "QuanLyGiangDay\QuanLyGiangDay.csproj", "{76E8DC4C-390C-40C1-B7BE-C92940025F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasmaControl", "..\..\TasmaLibrary\TasmaControl\TasmaControl.csproj", "{0B490808-8427-4D7C-B72A-8528652DF7D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasmaControl", "TasmaControl\TasmaControl.csproj", "{0B490808-8427-4D7C-B72A-8528652DF7D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
